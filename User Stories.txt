@@ -1,0 +1,12 @@
+Feature: WHAT COM?
+	As a user, I'd like to ask WHATCOM a question
+
+Feature: We heard:
+	As a user, when I ask WHATCOM a question, I'd like WHATCOM to misunderstand what I asked it
+
+Feature: Try this!
+	As a user, when WHATCOM misunderstands me, I'd like it to do its best to answer the wrong question
+
+Feature: Thanks, WHATCOM!
+	As a user, I'd like to thank WHATCOM
+	As a user, I'd like WHATCOM to seek validation in a very needy manner
